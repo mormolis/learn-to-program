@@ -90,7 +90,7 @@ def english_number (number)
 end
 
 
-
+=begin
 
 puts english_number( 0)
 puts english_number( 9)
@@ -107,3 +107,4 @@ puts english_number(3211)
 puts english_number(999999)
 puts english_number(2200325)
 puts english_number(1000000000000)
+=end
